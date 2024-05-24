@@ -1,21 +1,25 @@
 # Привет 👋
 
-Меня зовут **Никита Ткаченко**, я студент 3-го курса НИУ ВШЭ на направлении "Прикладная математика" (GPA: 7.2/10 баллов)
+Меня зовут **Никита Ткаченко**, я студент 3-го курса *НИУ ВШЭ на направлении "Прикладная математика"* (GPA: 7.2/10 баллов)
+
+<div id="badges" align="center">
+  <a href='https://t.me/tka4nik'>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href='mailto:tka4nik@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
+</div>
+
+---
+<div id="badges" align="center">
+  <a href='https://skillicons.dev'>
+    <img src="https://skillicons.dev/icons?i=java,py,bash,cpp,spring,git,docker,linux,ubuntu" alt="My Skills"/>
+  </a>
+</div>
 
 ---
 
-<a href='https://t.me/tka4nik'>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-<a href='mailto:tka4nik@gmail.com'>
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
-</a>
-
----
-
-[![My Skills](https://skillicons.dev/icons?i=java,py,bash,cpp,spring,git,docker,linux,ubuntu)](https://skillicons.dev)
-
----
 ## Проекты
 
 ### [applied-mathematics-python](https://github.com/tka4nik/applied-mathematics-python) 
@@ -47,8 +51,8 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tka4nik&theme=gruvbox&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tka4nik&card_width=220" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tka4nik&layout=compact&theme=gruvbox&hide=jupyter%20notebook,postscript,tex&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tka4nik&layout=compact&hide=jupyter%20notebook,postscript,tex&card_width=220" />
 </a>
