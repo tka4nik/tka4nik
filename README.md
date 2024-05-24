@@ -4,10 +4,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tka4nik&theme=gruvbox" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tka4nik&theme=gruvbox&card_width=220" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tka4nik&layout=compact&theme=gruvbox&hide=jupyter%20notebook,postscript,tex&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tka4nik&layout=compact&theme=gruvbox&hide=jupyter%20notebook,postscript,tex&card_width=220" />
 </a>
 
 ## Проекты
