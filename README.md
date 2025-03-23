@@ -40,7 +40,7 @@
 - Инструменты: SFML, STL
 
 ### [census-image-viewer](https://github.com/tka4nik/census-image-viewer)
-Простой [https://ps2images.site](сайт) на JavaScript для просмотра изображений из стороннего REST-API
+Простой [сайт](https://ps2images.site) на JavaScript для просмотра изображений из стороннего REST-API
 - Язык: Census API, JavaScript
 
 ### [ps2-stats-bot](https://github.com/tka4nik/ps2-stats-bot)
